@@ -1,12 +1,5 @@
 dhfajhe
 weoawef
-<<<<<<< HEAD
-poweajf
-
-added in master
-=======
 poweaji
 
 changed in new2
-
->>>>>>> added in b.txt in new2 branch
